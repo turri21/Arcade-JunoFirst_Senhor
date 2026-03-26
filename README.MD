@@ -1,3 +1,8 @@
+-=(JunoFirst_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 <p align="center">
   <img src="Useful Information/Juno First.png" width="800">
 </p>
